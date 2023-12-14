@@ -1,0 +1,9 @@
+C:\Users\beshe\source\repos\ConsoleApp1\Stealer\bin\Debug\Stealer.exe.config
+C:\Users\beshe\source\repos\ConsoleApp1\Stealer\bin\Debug\Stealer.exe
+C:\Users\beshe\source\repos\ConsoleApp1\Stealer\bin\Debug\Stealer.pdb
+C:\Users\beshe\source\repos\ConsoleApp1\Stealer\bin\Debug\Sodium.Core.dll
+C:\Users\beshe\source\repos\ConsoleApp1\Stealer\obj\Debug\Stealer.csproj.AssemblyReference.cache
+C:\Users\beshe\source\repos\ConsoleApp1\Stealer\obj\Debug\Stealer.csproj.CoreCompileInputs.cache
+C:\Users\beshe\source\repos\ConsoleApp1\Stealer\obj\Debug\Stealer.csproj.CopyComplete
+C:\Users\beshe\source\repos\ConsoleApp1\Stealer\obj\Debug\Stealer.exe
+C:\Users\beshe\source\repos\ConsoleApp1\Stealer\obj\Debug\Stealer.pdb
